@@ -200,6 +200,13 @@ $$
 
 ---
 
+## 🌐 在线交互演示网址 (Live Interactive Blueprint)
+
+* 🔗 **在线演示地址**：[https://accessory-participation-displaying-wires.trycloudflare.com/fusion/](https://accessory-participation-displaying-wires.trycloudflare.com/fusion/)
+* 💡 **交互特性**：支持全景磁约束等离子体动态场渲染、KaTeX 实时数学公式交互、全流程指标大盘与 C4 分布式架构蓝图在线浏览。
+
+---
+
 ## ☕ 请我喝杯咖啡，谢谢
 
 如果您觉得本项目对您的科研、工程或学习有所帮助，欢迎请作者喝杯咖啡，感谢您的认可与支持！
@@ -208,3 +215,4 @@ $$
   <img src="alipay_qr.jpg" alt="请我喝杯咖啡，谢谢" width="280" />
   <p><em>打开支付宝 [扫一扫] · 感谢您的支持与鼓励！</em></p>
 </div>
+
