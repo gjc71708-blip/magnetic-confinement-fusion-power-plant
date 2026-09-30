@@ -208,6 +208,7 @@ $$
 
 ## 🌐 在线交互演示网址 (Live Interactive Blueprint)
 
+* 📧 **联系邮箱**：[yooohk333@gmai.com](mailto:yooohk333@gmai.com)
 * 🔗 **在线演示地址**：[https://accessory-participation-displaying-wires.trycloudflare.com/fusion/](https://accessory-participation-displaying-wires.trycloudflare.com/fusion/)
 * 💡 **交互特性**：支持全景磁约束等离子体动态场渲染、KaTeX 实时数学公式交互、全流程指标大盘与 C4 分布式架构蓝图在线浏览。
 
